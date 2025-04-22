@@ -38,4 +38,3 @@ Inicia una conversación con el bot en Telegram
 Responde a las preguntas sobre tus intereses y preferencias
 Recibe recomendaciones personalizadas de carreras disponibles en la UIP
 Solicita más información sobre las carreras recomendadas si lo deseas
-https://t.me/Hojaldre_bot
