@@ -1,0 +1,9 @@
+# Conecta a tu instancia EC2
+mkdir -p ~/compatible_layer/python
+
+# Instalar versiones específicas conocidas por ser compatibles
+pip install --target ~/compatible_layer/python openai==0.28.1 boto3 urllib3 requests
+
+# Crear el ZIP
+cd ~/compatible_layer
+zip -r ../compatible_layer.zip python/
