@@ -33,11 +33,9 @@ Bot de Telegram: Interfaz para la interacción con el usuario.
 Función Lambda: Procesa los mensajes y genera respuestas utilizando la API de OpenAI.
 Base de datos DynamoDB: Almacena las conversaciones para mantener el contexto.
 
-Instalación y configuración
-Ver documentación de instalación para instrucciones detalladas sobre cómo configurar el bot en tu propio entorno.
-Uso
 
 Inicia una conversación con el bot en Telegram
 Responde a las preguntas sobre tus intereses y preferencias
 Recibe recomendaciones personalizadas de carreras disponibles en la UIP
 Solicita más información sobre las carreras recomendadas si lo deseas
+https://t.me/Hojaldre_bot
