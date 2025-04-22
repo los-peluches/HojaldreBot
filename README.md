@@ -20,7 +20,7 @@ Python: Lenguaje de programación principal.
 
 Categorías de carreras disponibles
 
-🧠 Ciencias de la Salud\n
+🧠 Ciencias de la Salud
 📊 Ciencias Administrativas, Marítima y Portuaria
 🛠 Ingeniería, Arquitectura y Diseño
 🏨 Hotelería, Gastronomía y Turismo
